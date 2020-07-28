@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=04C3B4A79E708744A86E6A33AF712244/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=04C3B4A79E708744A86E6A33AF712244/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=04C3B4A79E708744A86E6A33AF712244/Name/@EntryValue">Discord New</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=04C3B4A79E708744A86E6A33AF712244/ProjectGuid/@EntryValue">C8500D6D9FC7404B9E164E6A99D091EF</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">04C3B4A79E708744A86E6A33AF712244</s:String></wpf:ResourceDictionary>
